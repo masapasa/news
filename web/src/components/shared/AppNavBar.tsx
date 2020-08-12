@@ -8,7 +8,7 @@ const AppNavBar = () => {
         <div className="container">
           <div className="navbar-brand">
             <Link className="navbar-item" to="/">
-                <img src="/aws.png" alt="AWS News" />
+                <img src="/nubri_logo.png" alt="AWS News" />
             </Link>
             <a href="#menu" role="button" className="navbar-burger" aria-label="menu" aria-expanded="false">
               <span aria-hidden="true"></span>
