@@ -8,10 +8,10 @@
     "javascript": {
         "framework": "none",
         "config": {
-            "SourceDir": "next",
+            "SourceDir": "src",
             "DistributionDir": "dist",
-            "BuildCommand": "yarn dev",
-            "StartCommand": "yarn dev"
+            "BuildCommand": "npm run-script build",
+            "StartCommand": "npm run-script start"
         }
     }
 }

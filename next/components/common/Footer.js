@@ -63,7 +63,7 @@ export default function Footer() {
         <div className="mx-auto  text-sm leading-lg text-center">
           <Stats />
 
-          <p>&copy; 2019-2020. AWS News is for demonstrartion only.</p>
+          <p>&copy; 2019-2020. info@nubri.co</p>
           <p>No claims are made on content presented here.</p>
 
           <img className="h-8 my-8 mx-auto" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="AWS News" />
