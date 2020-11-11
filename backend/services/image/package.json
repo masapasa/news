@@ -1,0 +1,11 @@
+{
+  "name": "aws-news-backend-services-image",
+  "version": "1.0.0",
+  "description": "Serves sized images",
+  "main": "index.js",
+  "author": "jkahn@",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "aws-xray-sdk-core": "^3.1.0"
+  }
+}
