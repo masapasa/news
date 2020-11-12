@@ -6,12 +6,10 @@ import Navbar from '@/common/Navbar';
 import Footer from '@/common/Footer';
 
 // configure Amplify
-import awsconfig from '../aws-exports';
 import Amplify from '@aws-amplify/core';
 import Analytics from '@aws-amplify/analytics';
 import API from '@aws-amplify/api';
 import Auth from '@aws-amplify/auth';
-Amplify.configure(awsconfig);
 
 Analytics.autoTrack("session", {
   enable: true,
